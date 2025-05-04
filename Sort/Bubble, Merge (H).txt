@@ -138,6 +138,21 @@ int main() {
 
 
 
+
+
+
+
+
+
+/*
+g++ -fopenmp file_name.cpp -o file_name.exe
+.\file_name.exe
+*/
+
+
+
+
+
 /*
 Sequential Bubble Sort time: 0.421 seconds
 Parallel Bubble Sort time: 1.026 seconds
