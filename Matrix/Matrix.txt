@@ -61,6 +61,16 @@ int main() {
 
 
 
+
+
+/*
+nvcc file_name.cu -o file_name
+./file_name
+
+*/
+
+
+
 /*
 | 1 2 |
 | 3 4 |
