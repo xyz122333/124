@@ -114,6 +114,14 @@ int main() {
 
 
 
+/*
+g++ -fopenmp file_name.cpp -o file_name.exe
+.\file_name.exe
+*/
+
+
+
+
 
 
 
