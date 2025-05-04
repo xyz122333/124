@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    // Uncomment below if you want to manually set number of threads
+    // Uncomment below if you want to set number of threads manually
     // omp_set_num_threads(4); // Example: use 4 threads
 
     int n = 1000000; // Size of array (10 lakh elements)
